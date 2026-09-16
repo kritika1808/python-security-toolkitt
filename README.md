@@ -62,8 +62,7 @@ python-security-toolkit/
 │   └── packet_sniffer.py
 │
 ├── screenshots/
-│
-└── utils/
+
 ```
 
 ## Requirements
@@ -282,18 +281,6 @@ The ARP Spoofer, DNS Spoofer, and Network Jammer modules are intentionally imple
 * No spoofed ARP packets are sent.
 * No DNS packets are sent.
 * No jamming or network disruption is performed.
-
-## Future Improvements
-
-Possible future improvements include:
-
-* Improved input validation
-* Better error handling
-* Detailed packet analysis
-* Logging functionality
-* Improved command-line interface
-* Additional defensive security modules
-* Automated security reports
 
 ## Disclaimer
 
