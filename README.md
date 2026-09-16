@@ -239,7 +239,7 @@ The modules were also tested individually through the main toolkit menu in the K
 Practical testing screenshots are stored in:
 
 ```text
-screenshots/
+[screenshots](./screenshot/)
 ```
 
 These screenshots provide evidence of the execution and testing of the project modules.
