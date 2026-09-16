@@ -62,7 +62,6 @@ python-security-toolkit/
 │   └── packet_sniffer.py
 │
 ├── screenshots/
-
 ```
 
 ## Requirements
@@ -236,11 +235,7 @@ The modules were also tested individually through the main toolkit menu in the K
 
 ## Screenshots
 
-Practical testing screenshots are stored in:
-
-```text
-[screenshots](./screenshot/)
-```
+Practical testing screenshots are stored in the [screenshots](./screenshot/) directory.
 
 These screenshots provide evidence of the execution and testing of the project modules.
 
