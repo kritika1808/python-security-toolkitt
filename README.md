@@ -1,13 +1,9 @@
 
 # Python Security Toolkit: An Integrated Ethical Hacking Framework
 
-## Project Overview
-
-**Python Security Toolkit: An Integrated Ethical Hacking Framework** is a beginner-friendly Python-based cybersecurity toolkit developed and tested in a Kali Linux lab environment.
+**Python Security Toolkit** is a beginner-friendly, Python-based cybersecurity toolkit developed and tested in a Kali Linux lab environment.
 
 The project combines multiple security-related modules into a single menu-driven program. It provides practical experience with Python, Linux networking, Scapy, network scanning, packet analysis, MAC addresses, ARP, and DNS concepts.
-
-**Project Folder:** `python-security-toolkit`
 
 ## Objectives
 
